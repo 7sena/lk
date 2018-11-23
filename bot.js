@@ -2,7 +2,7 @@ console.log(`Online`);
 const Discord = require('discord.js');
 const client = new Discord.Client();
 var ServerID = "505995244672909323"; 
-var ChannelID = "512563821227802634";
+var ChannelID = "515407533465272330";
  console.log(`Online`);
 client.on('ready', async() => {
     setInterval(()=>{
